@@ -85,27 +85,27 @@ if(e.shiftKey && keyPressed == '77')
 	}
 	if(keyPressed == '87')
 	{
-		new_image('wall.jpg'); 
+		new_image('https://m.gjcdn.net/user-avatar/200/4724787-tcsegvfu-v4.jpg'); 
 		console.log("w");
 	}
 	if(keyPressed == '71')
 	{
-		new_image('ground.png'); 
+		new_image('https://pbs.twimg.com/profile_images/766428010690015232/A4BSa1ty.jpg'); 
 		console.log("g");
 	}
 	if(keyPressed == '76')
 	{
-		new_image('light_green.png'); 
+		new_image('https://i1.sndcdn.com/artworks-000138118237-vtp2d7-t500x500.jpg'); 
 		console.log("l");
 	}
 	if(keyPressed == '84')
 	{
-		new_image('trunk.jpg'); 
+		new_image('https://media1.cgtrader.com/variants/bcwppqrakxCWqEXVBbc8Uknj/40073f86dea5cc27b3e46b911284f10ff35833da74046da55f55f229c8993de7/LogSide.png'); 
 		console.log("t");
 	}
 	if(keyPressed == '82')
 	{
-		new_image('roof.jpg'); 
+		new_image('https://yt3.ggpht.com/a/AATXAJy0UYNsZMjOUHjTg7Vmz47X_DntaosRIWXijf431g=s900-c-k-c0x00ffffff-no-rj'); 
 		console.log("r");
 	}
 	if(keyPressed == '89')
@@ -125,7 +125,7 @@ if(e.shiftKey && keyPressed == '77')
 	}
 	if(keyPressed == '67')
 	{
-		new_image('cloud.jpg'); 
+		new_image('https://i.pinimg.com/originals/c6/a6/30/c6a6309c6f0adb62de4fdbd924b862e2.jpg'); 
 		console.log("c");
 	}
 	
